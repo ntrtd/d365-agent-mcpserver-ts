@@ -1,0 +1,44 @@
+{
+  "agents": [
+    {
+      "name": "finance_accounting",
+      "description": "Finance & Accounting Agent",
+      "configFile": "finance_accounting.json"
+    },
+    {
+      "name": "scm_inventory",
+      "description": "Supply Chain & Inventory Management Agent",
+      "configFile": "scm_inventory.json"
+    },
+    {
+      "name": "sales",
+      "description": "Sales & Order Management Agent",
+      "configFile": "sales.json"
+    },
+    {
+      "name": "procurement",
+      "description": "Procurement Agent",
+      "configFile": "procurement.json"
+    },
+    {
+      "name": "hr_payroll",
+      "description": "Human Resources & Payroll Agent",
+      "configFile": "hr_payroll.json"
+    },
+    {
+      "name": "project_accounting",
+      "description": "Project Management & Accounting Agent",
+      "configFile": "project_accounting.json"
+    },
+    {
+      "name": "asset_management",
+      "description": "Asset Management Agent",
+      "configFile": "asset_management.json"
+    },
+    {
+      "name": "retail",
+      "description": "Retail Agent",
+      "configFile": "retail.json"
+    }
+  ]
+}
